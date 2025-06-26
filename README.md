@@ -80,3 +80,5 @@ Implemented use cases in latest version:
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
 
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2024-02-22_OpcUaSample410_BrbLibUa1.03.zip)
+
+[**Release for Automation Studio 4.12 (+BrbLibUa V1.04)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2025-06-26_OpcUaSample412_BrbLibUa1.04.zip)
