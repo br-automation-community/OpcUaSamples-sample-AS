@@ -36,10 +36,11 @@ Implemented use cases in latest version:
    * Calling of methods (AS4.3)
    * Receiving events (AS4.6)
    * Reading and Subscribing of Server info and diagnosis datapoints (AS4.10)
+   * Browsing (AS6.00)
    * etc...
   
   OpcUa-Any-Client
-   * Configuration (AS4.4)
+   * Configuration (AS4.4/AS6.00)
    * Mapping (AS4.4)
   
   PubSub
@@ -49,7 +50,7 @@ Implemented use cases in latest version:
   Applicative management of certificates at runtime
    * Wrapping library functions with OpcUa methods (AS4.6)
   
-  BrbLibUa V1.03 (contained in sample for AS4.10)
+  BrbLibUa V6.00 (contained in sample for AS6.00)
    * Library with useful functions around OpcUa including wrappers for server and client to reduce code enormously
  
 <a name="Releases"></a>
