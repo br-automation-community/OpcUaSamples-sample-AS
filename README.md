@@ -56,32 +56,32 @@ Implemented use cases in latest version:
 <a name="Releases"></a>
 ## Releases (click for download)
 
-[**Release for Automation Studio 4.1**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample41.zip)
+[**Release for Automation Studio 4.1**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample41.zip)
 
-[**Release for Automation Studio 4.2**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample42.zip)
+[**Release for Automation Studio 4.2**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample42.zip)
 
-[**Release for Automation Studio 4.3**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample43.zip)
+[**Release for Automation Studio 4.3**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample43.zip)
 
-[**Release for Automation Studio 4.4**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample44.zip)
+[**Release for Automation Studio 4.4**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2018-11-19_OpcUaSample44.zip)
 
-[**Release for Automation Studio 4.4.6.71**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2018-11-21_OpcUaSample44_671.zip)
+[**Release for Automation Studio 4.4.6.71**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2018-11-21_OpcUaSample44_671.zip)
 
-[**Release for Automation Studio 4.5**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2019-01-09_OpcUaSample45.zip)
+[**Release for Automation Studio 4.5**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2019-01-09_OpcUaSample45.zip)
 
-[**Release for Automation Studio 4.6**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2019-07-05_OpcUaSample46.zip)
+[**Release for Automation Studio 4.6**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2019-07-05_OpcUaSample46.zip)
 
-[**Release for Automation Studio 4.7**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2019-09-09_OpcUaSample47.zip)
+[**Release for Automation Studio 4.7**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2019-09-09_OpcUaSample47.zip)
 
-[**Release for Automation Studio 4.9**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2021-03-25_OpcUaSample49.zip)
+[**Release for Automation Studio 4.9**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2021-03-25_OpcUaSample49.zip)
 
-[**Release for Automation Studio 4.9 (+BrbLibUa)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2021-09-14_OpcUaSample49_BrbLibUa.zip)
+[**Release for Automation Studio 4.9 (+BrbLibUa)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2021-09-14_OpcUaSample49_BrbLibUa.zip)
 
-[**Release for Automation Studio 4.10 (+BrbLibUa V1.01)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2022-05-13_OpcUaSample410_BrbLibUa1.01.zip)
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.01)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/raw/main/2022-05-13_OpcUaSample410_BrbLibUa1.01.zip)
 
-[**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
 
-[**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2024-02-22_OpcUaSample410_BrbLibUa1.03.zip)
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2024-02-22_OpcUaSample410_BrbLibUa1.03.zip)
 
-[**Release for Automation Studio 4.12 (+BrbLibUa V1.04)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2025-06-26_OpcUaSample412_BrbLibUa1.04.zip)
+[**Release for Automation Studio 4.12 (+BrbLibUa V1.04)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2025-06-26_OpcUaSample412_BrbLibUa1.04.zip)
 
-[**Release for Automation Studio 6.00 (+BrbLibUa V6.00)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2025-06-27_OpcUaSample600_BrbLibUa6.00.zip)
+[**Release for Automation Studio 6.00 (+BrbLibUa V6.00)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2025-06-27_OpcUaSample600_BrbLibUa6.00.zip)
