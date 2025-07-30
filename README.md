@@ -80,8 +80,8 @@ Implemented use cases in latest version:
 
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
 
-[**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**]([https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2024-02-22_OpcUaSample410_BrbLibUa1.03.zip](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS4.10(%2BBrbLibUa1.03)))
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS4.10(%2BBrbLibUa1.03))
 
-[**Release for Automation Studio 4.12 (+BrbLibUa V1.04)**]([https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2025-06-26_OpcUaSample412_BrbLibUa1.04.zip](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS4.12(%2BBrbLibUa_V1.04)))
+[**Release for Automation Studio 4.12 (+BrbLibUa V1.04)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS4.12(%2BBrbLibUa_V1.04))
 
-[**Release for Automation Studio 6.00 (+BrbLibUa V6.00)**]([https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/2025-06-27_OpcUaSample600_BrbLibUa6.00.zip](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS6.00(%2BBrbLibUa_V6.00)))
+[**Release for Automation Studio 6.00 (+BrbLibUa V6.00)**](https://github.com/br-automation-community/OpcUaSamples-sample-AS/releases/tag/AS6.00(%2BBrbLibUa_V6.00))
