@@ -1,5 +1,8 @@
 # OpcUaSamples
-Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
+Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints.
+
+Its published under MIT license (see License.txt).
+Also have a look into the disclaimer (see Disclaimer.md).
 
 ## Table of Contents
 * [Introduction](#Introduction)
