@@ -1,8 +1,7 @@
 # OpcUaSamples
 Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints.
 
-Its published under MIT license (see License.txt).
-Hinweis / Notice: Please read the Disclaimer / Haftungsausschluss at the end of this README before using this software.
+Its published under MIT license (see [*License.txt*](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/LICENSE)). Also have a look into the disclaimer (see [*Disclaimer.md*](https://github.com/br-automation-community/OpcUaSamples-sample-AS/blob/main/Disclaimer.md)).
 
 ## Table of Contents
 * [Introduction](#Introduction)
